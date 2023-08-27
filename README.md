@@ -5,6 +5,10 @@ This project involves analyzing hotel review data using Natural Language Process
 
  ![Reviews](https://drive.google.com/uc?export=view&id=15IkxgtUEjdgmKcciJCGlYYlPPQYgAbUJ)
 </div>
+
+The project has two parts:
+- [Part 1](https://github.com/amirkiaml/Sentiment-Analysis-Hotel-Reviews/blob/main/Amirhossein_Kiani_NLP%20With%20Hotel%20Review%20Part%201.ipynb): Basic NLP of Hotel Reviews
+- [Part 2](https://github.com/amirkiaml/Sentiment-Analysis-Hotel-Reviews/blob/main/Amirhossein_Kiani_NLP%20With%20Hotel%20Review%20Part%202.ipynb): PCA, KNN, and Decision Trees
  
  Here is a summary of some of the steps taken:
 
